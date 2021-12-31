@@ -1,4 +1,4 @@
-package com.restapi.leave1.service;
+package com.restapi.leave.service.test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertTrue;
